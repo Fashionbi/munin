@@ -7,7 +7,7 @@ long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version           '1.4.1'
 
 depends 'apache2', '~> 1.7'
-depends 'nginx',   '~> 1.8'
+depends 'nginx',   '~> 2.2'
 
 supports 'arch'
 supports 'centos'
